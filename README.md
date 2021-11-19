@@ -5,6 +5,9 @@
 
 
 ### Ansible Controller and Agent nodes set up with Vagrant
+![](images/ansible_archi.png)
+
+
 ```
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
